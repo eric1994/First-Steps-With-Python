@@ -6,6 +6,13 @@ about C++, Ruby, Java and I want try **PYTHON**
 # Games
 I want to make games to learn about the structures of datas and become an expert coding and debugging... 
 
+###Game1
+A simple game with sleeps, ifs etc. I found this game in [Pag](http://inventwithpython.com/chapter6.html) and y make changes.
+
+**Code Modified**
+
+![Index](Img/python.PNG?raw=true)
+
 
 ## En Español pa' los colegas
 
