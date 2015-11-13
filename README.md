@@ -11,7 +11,7 @@ A simple game with sleeps, ifs etc. I found this game in [Pag](http://inventwith
 
 **Code Modified**
 
-![Index](Img/python.PNG?raw=true)
+![Game1](Img/python.PNG?raw=true)
 
 
 ## En Español pa' los colegas
