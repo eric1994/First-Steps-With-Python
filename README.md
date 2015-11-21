@@ -14,6 +14,11 @@ A simple game with sleeps, ifs etc. I found this game in [Pag](http://inventwith
 ![Game1](Img/python.PNG?raw=true)
 
 
+**Second Game**
+
+![Game1](Img/pythond.PNG?raw=true)
+
+
 ## En Español pa' los colegas
 
 ~~~Este repositorio ha sido creado para subir mi progreso con python, mi conocimiento en este lenguaje es intermedio. Sé algo sobre
