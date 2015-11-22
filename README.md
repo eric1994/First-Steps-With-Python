@@ -55,7 +55,7 @@
 
 `Install module socket with pip`
 
-![Sockets](ports/Nmap.PNG?raw=true)
+![Sockets](Img/ports.PNG?raw=true)
 
 **9*** Exctract data from database
 
